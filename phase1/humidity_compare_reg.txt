@@ -1,0 +1,3 @@
+0 5 10 20 25#budget
+7.10447183 6.37465763 5.67974804 4.27034025 3.60638635#humidity predicted by temperature with Window Method
+7.10447183  6.43249391  5.76670667  4.39362274  3.72202619#humidity predicted by temperature with Variance Method
